@@ -7,7 +7,7 @@
 
 ## Intruction to run
 
-- Copy this project to a folder 
+- Copy/clone this project to a folder 
 
 - Change this line in **.env** file 
 
